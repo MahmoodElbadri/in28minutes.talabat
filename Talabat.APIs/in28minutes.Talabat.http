@@ -1,0 +1,6 @@
+@in28minutes.Talabat_HostAddress = http://localhost:5018
+
+GET {{in28minutes.Talabat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
